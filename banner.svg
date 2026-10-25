@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F9FAF8" />
+      <stop offset="100%" stop-color="#F0F3EF" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="850" height="200" rx="16" fill="url(#bgGrad)" stroke="#E2E7E0" stroke-width="1.5"/>
+
+  <!-- Abstract Geometric Accents in Sage (#71856A), Lavender (#B8A8D9), Charcoal (#2D3436) -->
+  <g opacity="0.85">
+    <circle cx="760" cy="100" r="75" fill="#B8A8D9" opacity="0.35" />
+    <circle cx="710" cy="65" r="45" fill="#71856A" opacity="0.45" />
+    <rect x="730" y="110" width="60" height="60" rx="12" fill="#71856A" opacity="0.25" transform="rotate(18 760 140)" />
+    <circle cx="640" cy="140" r="14" fill="#B8A8D9" opacity="0.6" />
+    <circle cx="670" cy="40" r="8" fill="#71856A" opacity="0.5" />
+    <circle cx="800" cy="45" r="5" fill="#2D3436" opacity="0.3" />
+    <line x1="620" y1="95" x2="710" y2="95" stroke="#71856A" stroke-width="2" stroke-dasharray="4 4" opacity="0.5" />
+  </g>
+
+  <!-- Editorial Typography -->
+  <text x="50" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#2D3436" letter-spacing="0.5">Lakshana G S</text>
+  <text x="50" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#71856A" letter-spacing="0.3">Computer Science Engineer &middot; AI &amp; Software Developer</text>
+  <text x="50" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5F6A65">Building practical AI applications, full-stack systems &amp; decision analytics</text>
+
+  <!-- Accent Color Blocks -->
+  <rect x="50" y="160" width="65" height="3" rx="1.5" fill="#71856A"/>
+  <rect x="120" y="160" width="35" height="3" rx="1.5" fill="#B8A8D9"/>
+  <rect x="160" y="160" width="15" height="3" rx="1.5" fill="#2D3436"/>
+</svg>
