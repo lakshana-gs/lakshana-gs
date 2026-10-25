@@ -1,95 +1,105 @@
 # Lakshana G S
+### *Computer Science Engineering &middot; AI &amp; Software Developer*
 
-**Computer Science Engineering Student &middot; AI &amp; Software Developer**  
-*Kumaraguru College of Technology, Coimbatore*
+<p>
+  <img src="https://img.shields.io/badge/focus-applied_ai_%26_software-4A6B5D?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/status-exploring_%26_building-5B7F6C?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/location-coimbatore,_india-2D3748?style=flat-square" alt="Location">
+</p>
 
-> Building practical artificial intelligence applications, robust full-stack software, and data-driven systems with an emphasis on clean architecture and learning by building.
-
----
-
-## 01 / About
-
-I am a Computer Science and Engineering undergraduate at **Kumaraguru College of Technology (KCT), Coimbatore**, exploring the intersection of applied artificial intelligence, scalable software development, and data-driven systems.
-
-My approach is centered on **learning by building**—taking core algorithms and architectural concepts and turning them into functional, reliable software. Whether designing AI decision-support platforms or full-stack web applications, I prioritize clean structure, practical problem-solving, and continuous learning.
-
-- **Focus:** Practical AI Applications, Scalable Web Systems, Data Analytics
-- **Approach:** Hands-on engineering, clean code, iterative development
-- **Education:** B.E. in Computer Science &amp; Engineering (2024 &ndash; 2028)
+> Exploring the intersection of applied artificial intelligence, scalable software architecture, and data-driven systems. Driven by a learning-by-building philosophy that turns concepts into dependable, real-world tools.
 
 ---
 
-## 02 / Selected Projects
+## About
 
-### ConstructIQ AI
-*AI-powered construction intelligence and risk analytics platform*
+I am an undergraduate Computer Science and Engineering student at **Kumaraguru College of Technology (KCT), Coimbatore**. My work centers on turning theoretical algorithms and engineering concepts into functional, intuitive software.
+
+Whether designing AI decision-support platforms or developing full-stack web applications, I care deeply about clean structure, maintainable code, and creating software that solves real problems.
+
+- **Discipline:** B.E. Computer Science &amp; Engineering &bull; KCT Coimbatore (2024 &ndash; 2028)
+- **Core Focus:** Practical AI Applications, Software Architecture, Full-Stack Engineering, Data Analytics
+- **Philosophy:** Learn deeply, build consistently, and experiment relentlessly
+
+---
+
+## Selected Projects
+
+### 01 &mdash; ConstructIQ AI
+*AI-powered construction intelligence and risk analytics platform*  
+`Python` `Streamlit` `Pandas` `Data Analytics`
 
 An interactive decision-support application built to evaluate site safety compliance, material estimation, and project risk indicators through an intuitive analytical dashboard.
 
-- **Stack:** `Python` `Streamlit` `Pandas` `Data Analytics`
-- **Repository:** [lakshana-gs/ConstructIQ_AI](https://github.com/lakshana-gs/ConstructIQ_AI) &nearr;
+&rarr; **Repository:** [lakshana-gs/ConstructIQ_AI](https://github.com/lakshana-gs/ConstructIQ_AI) &nearr;
 
 ---
 
-### Agentic AI for Safety Monitoring
-*Construction safety oversight and risk analytics system*
+### 02 &mdash; Agentic AI for Safety Monitoring
+*Construction safety oversight and risk analytics system*  
+`Python` `Streamlit` `Pandas` `Data Analytics`
 
 A collaborative platform developed during the Infosys Springboard internship initiative, delivering automated safety compliance checks, hazard risk scoring, and structured reporting for construction site workflows.
 
-- **Stack:** `Python` `Streamlit` `Pandas` `Data Analytics`
-- **Repository:** [lakshana-gs/Agentic-Al-for-Safety-Monitoring...](https://github.com/lakshana-gs/Agentic-Al-for-Safety-Monitoring-with-Construction-Risk-Analytics_Team-D) &nearr;
+&rarr; **Repository:** [lakshana-gs/Agentic-Al-for-Safety-Monitoring...](https://github.com/lakshana-gs/Agentic-Al-for-Safety-Monitoring-with-Construction-Risk-Analytics_Team-D) &nearr;
 
 ---
 
-### TrafficRoute AI
-*Predictive traffic and route intelligence system*
+### 03 &mdash; TrafficRoute AI
+*Predictive traffic and route intelligence system*  
+`Python` `Data Analysis` `Algorithms` `Predictive Modeling`
 
 A predictive modeling and route optimization system exploring urban traffic dynamics, commute pattern forecasting, and efficient transit navigation.
 
-- **Stack:** `Python` `Data Analysis` `Algorithms`
-- **Status:** *In active development*
+&rarr; **Status:** *In active development*
 
 ---
 
-### Smart Food Ordering System
-*Full-stack food ordering and delivery web application*
+### 04 &mdash; Smart Food Ordering System
+*Full-stack food ordering and delivery web application*  
+`PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
 
-A complete web platform designed for smooth ordering workflows, featuring structured menu browsing, session cart handling, and relational database order management.
+A complete web platform designed for smooth ordering workflows, featuring structured menu browsing, session cart handling, and reliable database order management.
 
-- **Stack:** `PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
-- **Status:** *Full-stack academic project*
-
----
-
-## 03 / Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C` `C++` `Python` `Java` `JavaScript` `SQL` |
-| **Web &amp; Database** | `HTML5` `CSS3` `PHP` `MySQL` |
-| **Tools &amp; Frameworks** | `Git` `GitHub` `VS Code` `Streamlit` `Pandas` |
+&rarr; **Status:** *Full-stack academic project*
 
 ---
 
-## 04 / Education &amp; Recognition
+## Technical Skills
 
-- **B.E. in Computer Science &amp; Engineering** &mdash; Kumaraguru College of Technology, Coimbatore *(2024 &ndash; 2028)*  
-  Rigorous coursework spanning algorithms, data structures, object-oriented design, and database management.
+**Programming Languages**  
+`C` `C++` `Python` `Java` `JavaScript` `SQL`
 
-- **Mahatma Gandhi Academic Excellence Award** &mdash; Kumaraguru College of Technology  
-  Merit recognition conferred for sustained scholastic standing and academic excellence in Computer Science &amp; Engineering.
+**Web &amp; Database**  
+`HTML5` `CSS3` `PHP` `MySQL`
 
-- **Peer-Reviewed Research Paper (Accepted)** &mdash; ICSL&ndash;DSGA 2026  
-  *"Feature Stability Does Not Imply Completeness: An Empirical Study on Educational Datasets with Varying Financial Representation"* (Paper ID #230).
+**Tools &amp; Frameworks**  
+`Git` `GitHub` `VS Code` `Streamlit` `Pandas`
 
 ---
 
-## 05 / Connect
+## Education &amp; Recognition
 
-- **Portfolio:** [lakshana-gs.github.io/Lakshana-portfolio](https://lakshana-gs.github.io/Lakshana-portfolio/)
-- **LinkedIn:** [linkedin.com/in/lakshana-g-s-533987328](https://www.linkedin.com/in/lakshana-g-s-533987328)
-- **GitHub:** [github.com/lakshana-gs](https://github.com/lakshana-gs)
-- **Email:** [lakshanaganesh08@gmail.com](mailto:lakshanaganesh08@gmail.com)
+**B.E. in Computer Science &amp; Engineering** *(2024 &ndash; 2028)*  
+*Kumaraguru College of Technology, Coimbatore*  
+Core foundation spanning algorithms, data structures, object-oriented design, and database systems.
+
+**Mahatma Gandhi Academic Excellence Award**  
+*Kumaraguru College of Technology* &bull; Conferred for sustained scholastic standing and academic excellence in Computer Science &amp; Engineering.
+
+**Peer-Reviewed Research Paper (Accepted)**  
+*ICSL&ndash;DSGA 2026* &bull; *"Feature Stability Does Not Imply Completeness: An Empirical Study on Educational Datasets with Varying Financial Representation"* (Paper ID #230).
+
+---
+
+## Connect
+
+I welcome technical discussions, project collaborations, and software engineering opportunities:
+
+- **Portfolio** &mdash; [lakshana-gs.github.io/Lakshana-portfolio](https://lakshana-gs.github.io/Lakshana-portfolio/)
+- **LinkedIn** &mdash; [linkedin.com/in/lakshana-g-s-533987328](https://www.linkedin.com/in/lakshana-g-s-533987328)
+- **GitHub** &mdash; [github.com/lakshana-gs](https://github.com/lakshana-gs)
+- **Email** &mdash; [lakshanaganesh08@gmail.com](mailto:lakshanaganesh08@gmail.com)
 
 ---
 
