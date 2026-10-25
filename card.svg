@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="creamGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDFBF7" />
+      <stop offset="100%" stop-color="#F4EEE4" />
+    </linearGradient>
+    <linearGradient id="sageGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#556B4E" />
+      <stop offset="100%" stop-color="#6E8566" />
+    </linearGradient>
+  </defs>
+
+  <!-- Cream Card Container -->
+  <rect x="1" y="1" width="848" height="278" rx="16" fill="url(#creamGrad)" stroke="#E2DACD" stroke-width="1.5" />
+
+  <!-- Subtle Top Code/Terminal Dots -->
+  <g transform="translate(48, 34)">
+    <circle cx="0" cy="0" r="4.5" fill="#D98274" opacity="0.8" />
+    <circle cx="15" cy="0" r="4.5" fill="#E5B567" opacity="0.8" />
+    <circle cx="30" cy="0" r="4.5" fill="#7EAA78" opacity="0.8" />
+    <text x="48" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#8C8275" letter-spacing="0.8">~/profile.dev</text>
+  </g>
+
+  <!-- Code Badge in Top-Right -->
+  <g transform="translate(712, 24)">
+    <rect width="90" height="26" rx="13" fill="#EFE8DC" stroke="#DFD7C8" stroke-width="1" />
+    <text x="45" y="17" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#556B4E" letter-spacing="0.5">&lt;/&gt; dev</text>
+  </g>
+
+  <!-- Name -->
+  <text x="48" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="750" fill="#222627" letter-spacing="-0.5">Lakshana G S.</text>
+
+  <!-- Tagline: AI · Software · Engineering (Prominent Size) -->
+  <text x="48" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="650" fill="url(#sageGrad)" letter-spacing="0.4">AI &middot; Software &middot; Engineering</text>
+
+  <!-- Subtle Warm Divider -->
+  <line x1="48" y1="156" x2="802" y2="156" stroke="#E6DFD2" stroke-width="1.2" />
+
+  <!-- Bio Quote -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3D4547" letter-spacing="0.1">
+    <text x="48" y="190">&ldquo;I'm a Computer Science student interested in building practical solutions with AI,</text>
+    <text x="48" y="214">software development, and full-stack technologies. I enjoy learning by building</text>
+    <text x="48" y="238">and turning ideas into working projects.&rdquo;</text>
+  </g>
+
+  <!-- Subtle Accent Dot / Geometric Touch -->
+  <circle cx="798" cy="235" r="4" fill="#556B4E" opacity="0.6" />
+</svg>
