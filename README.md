@@ -1,105 +1,98 @@
-<div align="left">
-
 # Lakshana G S
 
-**Computer Science Engineering Student &nbsp;&bull;&nbsp; AI &amp; Software Developer**  
-*Building practical AI applications, full-stack software, and data-driven systems.*
+**Computer Science Engineering Student &middot; AI &amp; Software Developer**  
+*Kumaraguru College of Technology, Coimbatore*
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Exploring_%26_Building-4A6B5D?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Software_Engineering-2D3748?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Coimbatore,_India-587E6A?style=flat-square" alt="Location">
-</p>
-
-</div>
+> Building practical artificial intelligence applications, robust full-stack software, and data-driven systems with an emphasis on clean architecture and learning by building.
 
 ---
 
-## 01 &nbsp;/&nbsp; About
+## 01 / About
 
-I am a Computer Science and Engineering undergraduate at **Kumaraguru College of Technology (KCT), Coimbatore**, exploring the intersection of applied artificial intelligence, scalable software development, and data-driven applications.
+I am a Computer Science and Engineering undergraduate at **Kumaraguru College of Technology (KCT), Coimbatore**, exploring the intersection of applied artificial intelligence, scalable software development, and data-driven systems.
 
-Guided by a **learning-by-building** approach, I focus on turning concepts and algorithms into reliable, functional digital experiences. Whether architecting AI decision-support platforms or developing full-stack web applications, I prioritize clean structure, practical problem-solving, and continuous learning.
+My approach is centered on **learning by building**—taking core algorithms and architectural concepts and turning them into functional, reliable software. Whether designing AI decision-support platforms or full-stack web applications, I prioritize clean structure, practical problem-solving, and continuous learning.
 
-- 🎓 **Academic Base:** B.E. in Computer Science &amp; Engineering &bull; KCT, Coimbatore (2024 &ndash; 2028)
-- 💡 **Core Interests:** Applied AI, Software Engineering, Full-Stack Development, Data Analytics
-- ⚙️ **Philosophy:** Build consistently, write maintainable code, and solve real problems
+- **Focus:** Practical AI Applications, Scalable Web Systems, Data Analytics
+- **Approach:** Hands-on engineering, clean code, iterative development
+- **Education:** B.E. in Computer Science &amp; Engineering (2024 &ndash; 2028)
 
 ---
 
-## 02 &nbsp;/&nbsp; Selected Projects
+## 02 / Selected Projects
 
-### [ConstructIQ AI](https://github.com/lakshana-gs/ConstructIQ_AI)
-> **AI-powered construction intelligence and risk analytics platform**
+### ConstructIQ AI
+*AI-powered construction intelligence and risk analytics platform*
 
 An interactive decision-support application built to evaluate site safety compliance, material estimation, and project risk indicators through an intuitive analytical dashboard.
-- **Tech Stack:** `Python` &nbsp;&bull;&nbsp; `Streamlit` &nbsp;&bull;&nbsp; `Data Analytics`
-- **Repository:** [`lakshana-gs/ConstructIQ_AI`](https://github.com/lakshana-gs/ConstructIQ_AI)
 
-<br>
+- **Stack:** `Python` `Streamlit` `Pandas` `Data Analytics`
+- **Repository:** [lakshana-gs/ConstructIQ_AI](https://github.com/lakshana-gs/ConstructIQ_AI) &nearr;
 
-### [Agentic AI for Safety Monitoring](https://github.com/lakshana-gs/Agentic-Al-for-Safety-Monitoring-with-Construction-Risk-Analytics_Team-D)
-> **Construction safety oversight &amp; risk analytics system**
+---
 
-A collaborative project developed during the Infosys Springboard internship initiative, delivering automated safety compliance checks, hazard risk scoring, and structured reporting for construction site workflows.
-- **Tech Stack:** `Python` &nbsp;&bull;&nbsp; `Streamlit` &nbsp;&bull;&nbsp; `Pandas`
-- **Repository:** [`lakshana-gs/Agentic-Al-for-Safety-Monitoring...`](https://github.com/lakshana-gs/Agentic-Al-for-Safety-Monitoring-with-Construction-Risk-Analytics_Team-D)
+### Agentic AI for Safety Monitoring
+*Construction safety oversight and risk analytics system*
 
-<br>
+A collaborative platform developed during the Infosys Springboard internship initiative, delivering automated safety compliance checks, hazard risk scoring, and structured reporting for construction site workflows.
+
+- **Stack:** `Python` `Streamlit` `Pandas` `Data Analytics`
+- **Repository:** [lakshana-gs/Agentic-Al-for-Safety-Monitoring...](https://github.com/lakshana-gs/Agentic-Al-for-Safety-Monitoring-with-Construction-Risk-Analytics_Team-D) &nearr;
+
+---
 
 ### TrafficRoute AI
-> **Predictive traffic and route intelligence system**
+*Predictive traffic and route intelligence system*
 
 A predictive modeling and route optimization system exploring urban traffic dynamics, commute pattern forecasting, and efficient transit navigation.
-- **Tech Stack:** `Python` &nbsp;&bull;&nbsp; `Data Analysis` &nbsp;&bull;&nbsp; `Algorithms`
+
+- **Stack:** `Python` `Data Analysis` `Algorithms`
 - **Status:** *In active development*
 
-<br>
+---
 
 ### Smart Food Ordering System
-> **Full-stack food ordering and delivery web application**
+*Full-stack food ordering and delivery web application*
 
-A complete web platform designed for smooth ordering workflows, featuring structured menu browsing, session cart handling, and reliable database order management.
-- **Tech Stack:** `PHP` &nbsp;&bull;&nbsp; `MySQL` &nbsp;&bull;&nbsp; `JavaScript` &nbsp;&bull;&nbsp; `HTML5` &nbsp;&bull;&nbsp; `CSS3`
+A complete web platform designed for smooth ordering workflows, featuring structured menu browsing, session cart handling, and relational database order management.
+
+- **Stack:** `PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
 - **Status:** *Full-stack academic project*
 
 ---
 
-## 03 &nbsp;/&nbsp; Technical Skills
+## 03 / Technical Skills
 
-| Discipline | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C` &nbsp;&bull;&nbsp; `C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;&nbsp; `Java` &nbsp;&bull;&nbsp; `JavaScript` &nbsp;&bull;&nbsp; `SQL` |
-| **Web &amp; Databases** | `HTML5` &nbsp;&bull;&nbsp; `CSS3` &nbsp;&bull;&nbsp; `PHP` &nbsp;&bull;&nbsp; `MySQL` |
-| **Tools &amp; Libraries** | `Git` &nbsp;&bull;&nbsp; `GitHub` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `Streamlit` &nbsp;&bull;&nbsp; `Pandas` |
+| **Languages** | `C` `C++` `Python` `Java` `JavaScript` `SQL` |
+| **Web &amp; Database** | `HTML5` `CSS3` `PHP` `MySQL` |
+| **Tools &amp; Frameworks** | `Git` `GitHub` `VS Code` `Streamlit` `Pandas` |
 
 ---
 
-## 04 &nbsp;/&nbsp; Academic Foundation &amp; Recognition
+## 04 / Education &amp; Recognition
 
-- **B.E. in Computer Science &amp; Engineering**  
-  *Kumaraguru College of Technology, Coimbatore* &bull; 2024 &ndash; 2028  
-  Rigorous coursework spanning data structures, algorithms, object-oriented programming, and software engineering principles.
+- **B.E. in Computer Science &amp; Engineering** &mdash; Kumaraguru College of Technology, Coimbatore *(2024 &ndash; 2028)*  
+  Rigorous coursework spanning algorithms, data structures, object-oriented design, and database management.
 
-- **Mahatma Gandhi Academic Excellence Award**  
-  *Merit Recognition* &bull; Awarded for sustained scholastic standing and academic excellence in Computer Science &amp; Engineering at KCT.
+- **Mahatma Gandhi Academic Excellence Award** &mdash; Kumaraguru College of Technology  
+  Merit recognition conferred for sustained scholastic standing and academic excellence in Computer Science &amp; Engineering.
 
-- **Peer-Reviewed Research Paper (Accepted)**  
-  *ICSL&ndash;DSGA 2026* &bull; *"Feature Stability Does Not Imply Completeness: An Empirical Study on Educational Datasets with Varying Financial Representation"* (Paper ID #230).
+- **Peer-Reviewed Research Paper (Accepted)** &mdash; ICSL&ndash;DSGA 2026  
+  *"Feature Stability Does Not Imply Completeness: An Empirical Study on Educational Datasets with Varying Financial Representation"* (Paper ID #230).
 
 ---
 
-## 05 &nbsp;/&nbsp; Connect
+## 05 / Connect
 
-I am always interested in discussing new ideas, software projects, and opportunities:
-
-- 🌐 **Portfolio:** [lakshana-gs.github.io/Lakshana-portfolio](https://lakshana-gs.github.io/Lakshana-portfolio/)
-- 💼 **LinkedIn:** [linkedin.com/in/lakshana-g-s-533987328](https://www.linkedin.com/in/lakshana-g-s-533987328)
-- 💻 **GitHub:** [@lakshana-gs](https://github.com/lakshana-gs)
-- ✉️ **Email:** [lakshanaganesh08@gmail.com](mailto:lakshanaganesh08@gmail.com)
+- **Portfolio:** [lakshana-gs.github.io/Lakshana-portfolio](https://lakshana-gs.github.io/Lakshana-portfolio/)
+- **LinkedIn:** [linkedin.com/in/lakshana-g-s-533987328](https://www.linkedin.com/in/lakshana-g-s-533987328)
+- **GitHub:** [github.com/lakshana-gs](https://github.com/lakshana-gs)
+- **Email:** [lakshanaganesh08@gmail.com](mailto:lakshanaganesh08@gmail.com)
 
 ---
 
 <p align="center">
-  <sub>Designed with an understated editorial aesthetic &bull; Built by Lakshana G S</sub>
+  <sub>Designed with an understated editorial aesthetic &middot; Built by Lakshana G S</sub>
 </p>
