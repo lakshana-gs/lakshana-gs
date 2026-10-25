@@ -1,5 +1,5 @@
 # Lakshana G S.
-<sub><b>AI &middot; Software &middot; Engineering</b></sub>
+### AI &middot; Software &middot; Engineering
 
 ---
 
