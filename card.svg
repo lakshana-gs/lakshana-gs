@@ -31,16 +31,16 @@
   <text x="48" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="750" fill="#222627" letter-spacing="-0.5">Lakshana G S.</text>
 
   <!-- Tagline: AI · Software · Engineering (Prominent Size) -->
-  <text x="48" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="650" fill="url(#sageGrad)" letter-spacing="0.4">AI &middot; Software &middot; Engineering</text>
+  <text x="48" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="650" fill="url(#sageGrad)" letter-spacing="0.4">AI &#183; Software &#183; Engineering</text>
 
   <!-- Subtle Warm Divider -->
   <line x1="48" y1="156" x2="802" y2="156" stroke="#E6DFD2" stroke-width="1.2" />
 
   <!-- Bio Quote -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3D4547" letter-spacing="0.1">
-    <text x="48" y="190">&ldquo;I'm a Computer Science student interested in building practical solutions with AI,</text>
+    <text x="48" y="190">&#8220;I'm a Computer Science student interested in building practical solutions with AI,</text>
     <text x="48" y="214">software development, and full-stack technologies. I enjoy learning by building</text>
-    <text x="48" y="238">and turning ideas into working projects.&rdquo;</text>
+    <text x="48" y="238">and turning ideas into working projects.&#8221;</text>
   </g>
 
   <!-- Subtle Accent Dot / Geometric Touch -->
